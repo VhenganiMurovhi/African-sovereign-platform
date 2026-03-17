@@ -1,4 +1,6 @@
 # Python
+.env
+data/raw/fx
 __pycache__/
 *.pyc
 *.pyo

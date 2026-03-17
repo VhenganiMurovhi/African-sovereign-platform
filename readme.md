@@ -54,3 +54,4 @@ The interactive dashboard allows users to:
 ## Running the Project
 
 Install dependencies:
+pip install ir requirements.txt
